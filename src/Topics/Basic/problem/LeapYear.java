@@ -1,4 +1,4 @@
-package Topics.problem;
+package Topics.Basic.problem;
 
 public class LeapYear {
 

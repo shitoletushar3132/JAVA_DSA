@@ -1,4 +1,4 @@
-package Topics;
+package Topics.Basic;
 
 public class ConditionalStat {
     public static void main(String[] args) {
