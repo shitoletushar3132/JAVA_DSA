@@ -6,6 +6,7 @@ public class Arrrays {
 
     public static void main(String[] args) {
         //
+        System.out.println("Result: " + 5 + 10 * 2);
         int[] data; // declaring an array
         data = new int[10]; // allocate memory
 
